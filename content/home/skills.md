@@ -26,7 +26,7 @@ feature:
   icon_pack: fab
   name: TensorFlow
   
-- description: 100%
+- description: 
   icon: chart-line
   icon_pack: fas
   name: Statistics
