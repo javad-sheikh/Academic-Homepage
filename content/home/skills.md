@@ -30,6 +30,12 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+
+- description:
+  icon: 
+  icon_pack: fab
+  name: 
+  
 - description: 10%
   icon: camera-retro
   icon_pack: fas
