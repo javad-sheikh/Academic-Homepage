@@ -1,16 +1,17 @@
 ---
 title: Javad Sheikh
 role: Masters Student in Artificial Intelligence
+avatar_filename: javad.webp
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:Javad2n@yahoo.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
