@@ -20,6 +20,12 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
+  
+- description:
+  icon: tensorflow
+  icon_pack: fab
+  name: TensorFlow
+  
 - description: 100%
   icon: chart-line
   icon_pack: fas
