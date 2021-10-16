@@ -1,7 +1,7 @@
 ---
 title: Javad Sheikh
 role: Masters Student in Artificial Intelligence
-avatar_filename: javad.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
