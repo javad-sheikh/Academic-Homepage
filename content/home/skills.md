@@ -23,7 +23,7 @@ feature:
   
 - description:
   icon: python
-  icon_pack: fab
+  icon_pack: "custom"
   name: Python
   
 - description: 
