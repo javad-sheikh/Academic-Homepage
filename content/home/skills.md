@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
 title: Skills
 subtitle:
@@ -17,29 +17,19 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
+  icon: tensorflow
+  icon_pack: "custom"
+  name: TensorFlow
+  
+- description:
   icon: python
   icon_pack: fab
   name: Python
   
-- description:
-  icon: tensorflow
-  icon_pack: fab
-  name: TensorFlow
-  
 - description: 
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-
-- description:
-  icon: 
-  icon_pack: fab
-  name: 
-  
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: opencv
+  icon_pack: "custom"
+  name: OpenCV
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
