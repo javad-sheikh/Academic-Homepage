@@ -32,7 +32,7 @@ education:
     - course: M.Sc. in Artificial Intelligence & Robotics
       institution: Amirkabir University of Technology
       year: 2021
-    - course: BSc in Biomedical Engineering
+    - course: B.Sc. in Biomedical Engineering
       institution: Amirkabir University of Technology
       year: 2018
 email: ""
