@@ -38,7 +38,7 @@ experience:
   - title: Artificial Intelligence App Developer
     company: Sibbank
     company_url: ''
-    company_logo: ponisha
+    company_logo: org-gc
     location: California
     date_start: '2018-09-01'
     date_end: '2019-09-31'
