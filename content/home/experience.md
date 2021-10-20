@@ -40,11 +40,15 @@ experience:
   - title: Artificial Intelligence App Developer
     company: Sibbank
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: sibbank
+    location: Tehran, Iran
+    date_start: '2018-09-01'
+    date_end: '2019-09-31'
+    description: |2-
+        Responsibilities include:
+        * Research
+        * Train models
+        * Develop application
 
 design:
   columns: '2'
