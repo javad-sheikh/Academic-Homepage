@@ -34,8 +34,6 @@ experience:
         * Preprocessed retina images
         * Retrained DenseNet-169
         * Developed the AI powered mobile application
-        Time series forecasting:
-        * Deployed different forecasting methods like Arima, Sarima, and RNNs
         
   - title: Artificial Intelligence App Developer
     company: Sibbank
