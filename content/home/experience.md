@@ -27,22 +27,21 @@ experience:
     company_url: ''
     company_logo: org-gc
     location: California
-    date_start: '2021-01-01'
+    date_start: '2019-04-04'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Retinopathy detection app development:
+        * Preprocessed retina images
+        * Retrained DenseNet-169
+        * Developed the AI powered mobile application
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Artificial Intelligence App Developer
+    company: Sibbank
     company_url: ''
-    company_logo: org-x
+    company_logo: ponisha
     location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
+    date_start: '2018-09-01'
+    date_end: '2019-09-31'
     description: |2-
         Responsibilities include:
         * Research
