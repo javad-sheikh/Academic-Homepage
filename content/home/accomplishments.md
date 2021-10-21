@@ -26,7 +26,6 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2018-08-25"
-  organization_logo: ponisha
   description: |2-
       Deployed different Deep learning architectures:
       * Convolutional neural network
