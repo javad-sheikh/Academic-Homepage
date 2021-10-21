@@ -37,6 +37,19 @@ item:
   organization_url: https://tehran.acm.org
   title: Deep Learning Summer School 2018
   url: ""
+- title: Freelance AI Engineer
+  company: Ponisha
+  company_url: ''
+  company_logo: ponisha
+  location: Tehran, Iran
+  date_start: '2019-04-04'
+  date_end: ''
+  description: |2-
+      Retinopathy detection app development:
+      * Preprocessed retina images
+      * Retrained DenseNet-169
+      * Developed the AI powered mobile application
+
 - certificate_url: 
   date_end: ""
   date_start: "2021-01-01"
