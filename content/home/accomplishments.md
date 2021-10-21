@@ -59,7 +59,7 @@ item:
   organization: General Office of Scientific Association and Olympiad Affairs
   organization_url: https://sao-aut.ir
   title:  fMRI Workshop
-  url: ""
+  url: 
 
 design:
   columns: '2' 
