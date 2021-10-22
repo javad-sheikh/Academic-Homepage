@@ -75,10 +75,10 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
-  project: true
+  post: false
+  project: false
   publication: true
-  event: true
+  event: false
 reading_time: true
 section_pager: false
 docs_section_pager: true
