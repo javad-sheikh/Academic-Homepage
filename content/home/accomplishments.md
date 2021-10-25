@@ -54,7 +54,7 @@ item:
   url: 
 - certificate_url: 
   date_end: 
-  date_start: "2020-05-20"
+  date_start: "2017-05-20"
   description: ""
   organization: General Office of Scientific Association and Olympiad Affairs
   organization_url: https://sao-aut.ir
