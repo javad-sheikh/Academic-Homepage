@@ -20,6 +20,9 @@ author_notes:
   - M.Sc. Student; Department of Watershed Management; Faculty of Range and
     Watershed Management; Gorgan University of Agricultural Sciences and Natural
     Resources; Gorgan; Iran
+  - M.Sc. Student; Department of Watershed Management; Faculty of Range and
+    Watershed Management; Gorgan University of Agricultural Sciences and Natural
+    Resources; Gorgan; Iran
   - M.Sc. Student; Department of Computer Engineering; AmirKabir University of
     Technology; Tehran; Iran
 doi: https://dx.doi.org/10.22059/jwim.2020.294404.738
