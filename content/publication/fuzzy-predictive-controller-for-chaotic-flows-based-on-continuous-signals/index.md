@@ -4,7 +4,7 @@ publication_types:
   - "2"
 authors:
   - Fahimeh Nazarimehr
-  - Javad Sheikh
+  - admin
   - Mohammad Mahdi Ahmadi
   - Viet–Thanh Phamb
   - Sajad Jafaria
