@@ -11,29 +11,17 @@ authors:
   - Zohre gholami
   - Javad Sheikh
 author_notes:
-  - Associate Professor
-  - Department of Watershed Management
-  - Faculty of Range and Watershed Management
-  - Gorgan University of Agricultural Sciences and Natural Resources
-  - Gorgan
-  - Iran
-  - Ph.D. Candidate
-  - Department of Watershed Management
-  - Faculty of Range and Watershed Management
-  - Gorgan University of Agricultural Sciences and Natural Resources
-  - Gorgan
-  - Iran
-  - M.Sc. Student
-  - Department of Watershed Management
-  - Faculty of Range and Watershed Management
-  - Gorgan University of Agricultural Sciences and Natural Resources
-  - Gorgan
-  - Iran
-  - M.Sc. Student
-  - Department of Computer Engineering
-  - AmirKabir University of Technology
-  - Tehran
-  - Iran.
+  - Associate Professor; Department of Watershed Management; Faculty of Range
+    and Watershed Management; Gorgan University of Agricultural Sciences and
+    Natural Resources; Gorgan; Iran
+  - Ph.D. Candidate; Department of Watershed Management; Faculty of Range and
+    Watershed Management; Gorgan University of Agricultural Sciences and Natural
+    Resources; Gorgan; Iran
+  - M.Sc. Student; Department of Watershed Management; Faculty of Range and
+    Watershed Management; Gorgan University of Agricultural Sciences and Natural
+    Resources; Gorgan; Iran
+  - M.Sc. Student; Department of Computer Engineering; AmirKabir University of
+    Technology; Tehran; Iran
 doi: https://dx.doi.org/10.22059/jwim.2020.294404.738
 publication: Water and Irrigation Management
 abstract: Evapotranspiration is an important component of the hydrologic cycle
