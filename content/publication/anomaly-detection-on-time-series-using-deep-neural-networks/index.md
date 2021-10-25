@@ -22,12 +22,13 @@ abstract: "Despite significant advances in artificial intelligence and
   methods. "
 draft: false
 featured: false
-projects:
+tags:
   - Deep Learning
   - Anomaly Detection
   - Time Series Analysis
   - Hierarchical Temporal Memory
   - Support Vector Machine
+projects: []
 image:
   filename: featured
   focal_point: Smart
