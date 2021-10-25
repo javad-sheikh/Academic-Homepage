@@ -9,7 +9,7 @@ authors:
   - Hassan RezaeiMoghaddam
   - Roya Jafary
   - Zohre gholami
-  - Javad Sheikh
+  - admin
 author_notes:
   - Associate Professor; Department of Watershed Management; Faculty of Range
     and Watershed Management; Gorgan University of Agricultural Sciences and
