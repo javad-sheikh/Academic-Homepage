@@ -17,11 +17,11 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Nazarimehr F.
-  - Sheikh J.
-  - Ahmadi M.M.
-  - Pham V.T.
-  - Jafari S.
+  - Fahimeh Nazarimehr
+  - Javad Sheikh
+  - Mohammad Mahdi Ahmadi
+  - Viet–Thanh Phamb
+  - Sajad Jafaria
 author_notes: []
 publication: Chaos, Solitons & Fractals
 summary: In this paper, we propose a fuzzy model predictive control method,
