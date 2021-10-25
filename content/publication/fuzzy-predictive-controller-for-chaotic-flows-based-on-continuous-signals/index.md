@@ -31,12 +31,12 @@ tags:
   - control
   - chaos
 image:
-  filename: paperimage.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 summary: In this paper, we propose a fuzzy model predictive control method,
   which can be used in the control of highly nonlinear and complex systems, like
   chaotic ones. This method only uses the obtained time series of the system and
   does not require any prior knowledge about the system’s equations.
-date: 2021-10-25T07:00:54.216Z
+date: 2017-12-08T07:05:00.000Z
 ---
