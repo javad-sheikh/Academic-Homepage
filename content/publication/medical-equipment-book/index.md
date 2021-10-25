@@ -4,11 +4,11 @@ subtitle: "chapter: Sutures and surgical instruments"
 publication_types:
   - "6"
 authors:
-  - Abouie Vahid
-  - SalarAmoli Mehdi
-  - Faghihi Farhad
-  - Sheikh Javad
-  - Sadeghi Payam
+  - Vahid Abouie
+  - Mehdi SalarAmoli
+  - Farhad Faghihi
+  - Javad Sheikh
+  - Payam Sadeghi
   - et al.
 draft: false
 featured: false
