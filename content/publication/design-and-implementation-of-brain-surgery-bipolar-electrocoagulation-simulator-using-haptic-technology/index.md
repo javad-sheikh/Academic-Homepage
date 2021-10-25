@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Reza Karimzadeh
-  - Javad Sheikh
+  - admin
   - Hamed Azarnoush
   - Hossein Arabi
 author_notes:
