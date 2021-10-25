@@ -40,8 +40,14 @@ tags:
   - Virtual reality
   - neurosurgical simulation
 image:
-  filename: https://youtu.be/OEBFIWKelBI
+  filename: featured.png
   focal_point: Smart
   preview_only: false
+summary: In recent years, one of the most widely used tools in the training and
+  evaluation of physicians and surgeons is surgical simulators. Introducing
+  virtual reality and adding haptic technology to the field has made it feasible
+  to develop ever-better surgical simulators. In this regard, we set out to
+  design a brain surgery bipolar electrocoagulation simulator using haptic
+  technology.
 date: 2021-10-25T08:03:45.735Z
 ---
