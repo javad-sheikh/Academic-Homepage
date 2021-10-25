@@ -52,6 +52,9 @@ abstract: Evapotranspiration is an important component of the hydrologic cycle
   moisture with acceptable accuracy.
 draft: false
 featured: false
+tags:
+  - Circuit design
+  - ""
 image:
   filename: featured
   focal_point: Smart
