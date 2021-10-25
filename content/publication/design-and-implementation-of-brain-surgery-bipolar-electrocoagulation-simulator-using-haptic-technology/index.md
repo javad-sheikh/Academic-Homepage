@@ -32,7 +32,7 @@ abstract: In recent years, one of the most widely used tools in the training and
   into gamer and non-gamer groups. The analysis of the volunteers’ operation
   demonstrated the positive effect of the surgery simulator on enhancing user
   skills for both groups.
-draft: true
+draft: false
 featured: true
 tags:
   - Bipolar electrocoagulation
