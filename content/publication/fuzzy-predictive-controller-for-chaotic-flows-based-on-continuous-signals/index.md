@@ -24,7 +24,7 @@ abstract: In this paper, we propose a fuzzy model predictive control method,
   a chaotic system with no equilibrium point, which belongs to category of
   chaotic systems with hidden attractor.
 draft: false
-featured: true
+featured: false
 tags:
   - fuzzy
   - prediction
