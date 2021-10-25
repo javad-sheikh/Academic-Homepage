@@ -7,7 +7,7 @@ authors:
   - Vahid Abouie
   - Mehdi SalarAmoli
   - Farhad Faghihi
-  - Javad Sheikh
+  - admin
   - Payam Sadeghi
   - et al.
 draft: false
