@@ -25,6 +25,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/javad-sheikh/
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Javad-Sheikh-2
+    icon_pack: fab
+    icon: reseachgate
 organizations:
   - name: Amirkabir University of Technology
     url: https://aut.ac.ir
