@@ -15,7 +15,7 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Javad Sheikh Personal web page'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -129,7 +129,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-MRQVDL38QB'
   google_tag_manager: ''
   google_site_verification: 'UY6Pz3Rc1cgh_-vZFsFjnlPNIKOBCB5M2o-vzMHeNRk'
   baidu_site_verification: ''
