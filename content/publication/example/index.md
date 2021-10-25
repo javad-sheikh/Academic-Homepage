@@ -35,7 +35,7 @@ url_source: ""
 url_video: ""
 title: Fuzzy predictive controller for chaotic flows based on continuous signals
 doi: https://doi.org/10.1016/j.chaos.2017.12.005
-featured: false
+featured: true
 tags:
   - fuzzy
   - prediction
