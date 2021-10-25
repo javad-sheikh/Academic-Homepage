@@ -5,9 +5,10 @@ avatar_filename: avatar.png
 bio: My research interests include Artificial Intelligence, Computer Vision,
   Deep Learning.
 interests:
-  - Artificial Intelligence
-  - Computer Vision
   - Deep Learning
+  - Machine Learning
+  - Computer Vision
+  - Artificial Intelligence
 social:
   - icon: envelope
     icon_pack: fas
