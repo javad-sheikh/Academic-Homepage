@@ -3,7 +3,7 @@ title: Anomaly detection on time series using deep neural networks
 publication_types:
   - "7"
 authors:
-  - Javad Sheikh
+  - admin
 abstract: "Despite significant advances in artificial intelligence and
   high-speed hardware, computers still do not have the same human capabilities
   for many cognitive activities. In the human brain, a large part of these
