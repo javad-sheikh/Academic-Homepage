@@ -8,6 +8,17 @@ authors:
   - Mohammad Mahdi Ahmadi
   - Viet–Thanh Phamb
   - Sajad Jafaria
+author_notes:
+  - Biomedical Engineering Department; Amirkabir University of Technology;
+    Tehran 15875-4413; Iran
+  - Biomedical Engineering Department; Amirkabir University of Technology;
+    Tehran 15875-4413; Iran
+  - Biomedical Engineering Department; Amirkabir University of Technology;
+    Tehran 15875-4413; Iran
+  - School of Electronics and Telecommunications; Hanoi University of Science
+    and Technology; 01 Dai Co Viet; Hanoi; Vietnam
+  - Biomedical Engineering Department; Amirkabir University of Technology;
+    Tehran 15875-4413; Iran
 doi: https://doi.org/10.1016/j.chaos.2017.12.005
 publication: Chaos, Solitons & Fractals
 abstract: In this paper, we propose a fuzzy model predictive control method,
