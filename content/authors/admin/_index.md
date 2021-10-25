@@ -41,7 +41,7 @@ education:
     - course: B.Sc. in Biomedical Engineering
       institution: Amirkabir University of Technology
       year: 2018
-email: Javad2n.sh@gmail.com
+email: ""
 superuser: true
 highlight_name: true
 ---
