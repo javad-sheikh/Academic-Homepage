@@ -2,8 +2,8 @@
 title: Javad Sheikh
 role: Masters Student in Artificial Intelligence
 avatar_filename: avatar.png
-bio: My research interests include Artificial Intelligence, Computer Vision,
-  Deep Learning.
+bio: I'm Javad Sheikh and my research interests include Artificial Intelligence,
+  Computer Vision, Deep Learning.
 interests:
   - Deep Learning
   - Machine Learning
