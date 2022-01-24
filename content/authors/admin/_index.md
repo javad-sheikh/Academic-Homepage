@@ -8,7 +8,7 @@ interests:
   - Deep Learning
   - Machine Learning
   - Computer Vision
-  - Artificial Intelligence
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
