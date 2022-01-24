@@ -4,15 +4,15 @@ title: Design and implementation of brain surgery bipolar electrocoagulation
 publication_types:
   - "3"
 authors:
-  - Reza Karimzadeh
   - admin
+  - Reza Karimzadeh
   - Hamed Azarnoush
   - Hossein Arabi
 author_notes:
-  - Department of Electrical Engineering; Sharif University of Technology;
-    Tehran; Iran
   - Department of Computer Engineering; Amirkabir University of Technology
     (Tehran Polytechnic); Tehran; Iran
+  - Department of Electrical Engineering; Sharif University of Technology;
+    Tehran; Iran
   - Department of Biomedical Engineering; Amirkabir University of Technology
     (Tehran Polytechnic); Tehran; Iran
   - Division of Nuclear Medicine and Molecular Imaging; Geneva University
