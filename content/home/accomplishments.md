@@ -29,7 +29,7 @@ item:
   description: Gained the career-building Python skills need to succeed as a data scientist
   organization: DataCamp
   organization_url: https://www.datacamp.com
-  title: 
+  title: Data Scientist with Python Track
   url: 'https://www.datacamp.com/profile/javad2n'
 - certificate_url:
   date_end: ""
