@@ -1,6 +1,6 @@
 ---
 title: Javad Sheikh
-role: Researcher at University of Turku
+role: Project Researcher and D.Sc. Candidate
 avatar_filename: avatar.png
 bio: I'm Javad Sheikh and my research interests include Artificial Intelligence,
   Computer Vision, and Deep Learning.
@@ -31,8 +31,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/javad-sheikh/
 organizations:
-  - name: Amirkabir University of Technology
-    url: https://aut.ac.ir
+  - name: University of Turku
+    url: https://utu.fi
 education:
   courses:
     - course: D.Sc. in Information and Communication Technology
