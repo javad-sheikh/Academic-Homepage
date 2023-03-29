@@ -5,9 +5,9 @@ avatar_filename: avatar.png
 bio: I'm Javad Sheikh and my research interests include Artificial Intelligence,
   Computer Vision, and Deep Learning.
 interests:
+  - Computer Vision
   - Deep Learning
   - Machine Learning
-  - Computer Vision
   - Data Science
 social:
   - icon: envelope
@@ -35,16 +35,19 @@ organizations:
     url: https://aut.ac.ir
 education:
   courses:
+    - course: D.Sc. in Information and Communication Technology
+      institution: University of Turku
+      year: 2023-present
     - course: M.Sc. in Artificial Intelligence & Robotics
       institution: Amirkabir University of Technology
-      year: 2021
+      year: 2018-2021
     - course: B.Sc. in Biomedical Engineering
       institution: Amirkabir University of Technology
-      year: 2018
+      year: 2013-2018
 email: ""
 superuser: true
 highlight_name: true
 ---
-Javad Sheikh is a graduate student of artificial intelligence and robotics at Reza Safabakhsh's Lab. His research interests include artificial neural networks, computer vision and machine learning. He received his B.Sc. and M.Sc. degrees in biomedical engineering and artifical intelligence from the Amirkabir University of Technology, Tehran, Iran, in 2018 and 2021.
+As a D.Sc. candidate and researcher at the University of Turku, I am passionate about computer vision and deep learning. With a solid academic background in both artificial intelligence and robotics, as well as biomedical engineering, I bring a unique perspective to developing cutting-edge AI technologies. My interest in AI began during my undergraduate studies and led me to pursue a Master's degree in the field. During this time, my focus shifted to computer vision. I'm working on innovative solutions to complex visual problems as part of the AI-ARC project. I am excited to continue pushing the boundaries of AI research and development and exploring new ways these technologies can positively impact our world.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JavadSheikhCV.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}.
