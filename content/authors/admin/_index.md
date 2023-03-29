@@ -1,6 +1,6 @@
 ---
 title: Javad Sheikh
-role: Project Researcher and D.Sc. Candidate
+role: Project Researcher at
 avatar_filename: avatar.png
 bio: I'm Javad Sheikh and my research interests include Artificial Intelligence,
   Computer Vision, and Deep Learning.
