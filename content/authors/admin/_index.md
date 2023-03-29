@@ -1,6 +1,6 @@
 ---
 title: Javad Sheikh
-role: Masters Student in Artificial Intelligence
+role: Researcher at University of Turku
 avatar_filename: avatar.png
 bio: I'm Javad Sheikh and my research interests include Artificial Intelligence,
   Computer Vision, and Deep Learning.
