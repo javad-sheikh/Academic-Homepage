@@ -17,6 +17,11 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
+  icon: pytorch
+  icon_pack: "custom"
+  name: PyTorch
+
+- description:
   icon: tensorflow
   icon_pack: "custom"
   name: TensorFlow
@@ -26,10 +31,10 @@ feature:
   icon_pack: "custom"
   name: Python
   
-- description: 
-  icon: opencv
-  icon_pack: "custom"
-  name: OpenCV
+# - description: 
+#   icon: opencv
+#   icon_pack: "custom"
+#   name: OpenCV
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
