@@ -20,15 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: Javad2n@yahoo.com
-phone: +98 919 7317 364
-address:
-  street: Dokhaniat 4
-  city: Gorgan
-  region: 
-  postcode: '4917973354'
-  country: Iran
-  country_code: Ir
+email: Javad.Sheikh@utu.fi
+phone: +358 465 698 472
+# address:
+#   street: Dokhaniat 4
+#   city: Gorgan
+#   region: 
+#   postcode: '4917973354'
+#   country: Iran
+#   country_code: Ir
 contact_links:
   - icon: skype
     icon_pack: fab
