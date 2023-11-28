@@ -7,7 +7,7 @@ authors:
   - admin
   - Mohammad Mahdi Ahmadi
   - Viet–Thanh Phamb
-  - Sajad Jafaria
+  - Sajad Jafari
 author_notes:
   - Biomedical Engineering Department; Amirkabir University of Technology;
     Tehran 15875-4413; Iran
@@ -43,7 +43,7 @@ tags:
   - chaos
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: Bottom
   preview_only: false
 summary: In this paper, we propose a fuzzy model predictive control method,
   which can be used in the control of highly nonlinear and complex systems, like
