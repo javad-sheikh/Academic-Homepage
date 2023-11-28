@@ -29,9 +29,10 @@ tags:
   - remote sensing
   - anomaly detection
 image:
+  image_position: Bottom
   filename: featured.png
   focal_point: Left
   preview_only: false
-  image_position: Bottom
+  
 date: 2023-03-07T07:21:13.700Z
 ---
