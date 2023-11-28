@@ -22,13 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Project Researcher
+    company: University of Turku
+    company_url: 'https://www.utu.fi/en'
+    company_logo: utu
+    location: Turku, Finland
+    date_start: '2022-07-01'
+    date_end: ''
+    description: |2-
+        Responsibilities :
+        * Research
+        * Collecting and Creating datasets
+        * Train Deep learning model
+        * Publishing papers
+  
   - title: Freelance AI Engineer
     company: Ponisha
     company_url: ''
     company_logo: ponisha
     location: Tehran, Iran
     date_start: '2019-04-04'
-    date_end: ''
+    date_end: '2021-09-01'
     description: |2-
         Retinopathy detection app development:
         * Preprocessed retina images
