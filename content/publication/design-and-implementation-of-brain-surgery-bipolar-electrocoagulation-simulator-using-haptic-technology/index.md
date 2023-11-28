@@ -17,7 +17,7 @@ author_notes:
     (Tehran Polytechnic); Tehran; Iran
   - Division of Nuclear Medicine and Molecular Imaging; Geneva University
     Hospital; Geneva; Switzerland
-doi: https://dx.doi.org/10.3390/rs15061477
+doi: https://doi.org/10.1007/s40998-022-00585-3
 publication: Iranian Journal of Science and Technology, Transactions of Electrical Engineering
 abstract: In recent years, one of the most widely used tools in the training and
   evaluation of physicians and surgeons is surgical simulators. Introducing
@@ -37,10 +37,10 @@ abstract: In recent years, one of the most widely used tools in the training and
 draft: false
 featured: true
 tags:
-  - Bipolar electrocoagulation
-  - Haptic feedback
-  - Virtual reality
-  - neurosurgical simulation
+  - Bipolar Electrocoagulation
+  - Haptic Feedback
+  - Virtual Reality
+  - Neurosurgical Simulation
 image:
   filename: featured.png
   focal_point: Smart

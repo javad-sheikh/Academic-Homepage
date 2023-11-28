@@ -20,9 +20,12 @@ summary: "This paper presents a new method using a Convolutional Neural Network 
 draft: false
 featured: true
 tags:
-  - remote sensing
-  - sea ice
-  - segmentation
+  - Semantic Segmentation
+  - Sensor Fusion
+  - Deep Learning
+  - Convolutional Neural Network
+  - Remote Sensing
+  - Computer Vision
 image:
   filename: featured.png
   focal_point: smart

@@ -13,7 +13,7 @@ authors:
 draft: false
 featured: false
 tags:
-  - biomedical engineering
+  - Biomedical Engineering
 image:
   filename: featured
   focal_point: Smart

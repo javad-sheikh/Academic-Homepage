@@ -37,10 +37,9 @@ abstract: In this paper, we propose a fuzzy model predictive control method,
 draft: false
 featured: false
 tags:
-  - fuzzy
-  - prediction
-  - control
-  - chaos
+  - Chaos Control
+  - Fuzzy Modeling
+  - Time Series
 image:
   filename: featured.png
   focal_point: Bottom

@@ -26,8 +26,10 @@ draft: false
 featured: true
 summary: The paper explores different clustering methods using AIS data to detect two dangerous abnormal behaviors in maritime vessels like dark ships (vessels turning off AIS for illegal activities) and spiral vessel movements. It evaluates K-means, DBSCAN, AP, and GMM techniques using three months of AIS data from the Baltic Sea. Results show that K-means is effective in identifying these threatening events, contributing to improving maritime safety.
 tags:
-  - remote sensing
-  - anomaly detection
+  - Anomaly Detection
+  - Situational Awareness
+  - Clustering
+  - Machine Learning
 image:
   image_position: Bottom
   filename: featured.png

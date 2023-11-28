@@ -25,7 +25,7 @@ featured: false
 tags:
   - Deep Learning
   - Anomaly Detection
-  - Time Series Analysis
+  - Time Series
   - Hierarchical Temporal Memory
   - Support Vector Machine
 projects: []
