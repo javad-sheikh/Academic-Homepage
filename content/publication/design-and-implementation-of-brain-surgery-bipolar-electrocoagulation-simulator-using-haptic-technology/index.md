@@ -2,10 +2,10 @@
 title: Design and implementation of brain surgery bipolar electrocoagulation
   simulator using haptic technology
 publication_types:
-  - "3"
+  - "2"
 authors:
-  - admin
   - Reza Karimzadeh
+  - admin
   - Hamed Azarnoush
   - Hossein Arabi
 author_notes:
@@ -16,7 +16,9 @@ author_notes:
   - Department of Biomedical Engineering; Amirkabir University of Technology
     (Tehran Polytechnic); Tehran; Iran
   - Division of Nuclear Medicine and Molecular Imaging; Geneva University
-    Hospital; CH-1211 Geneva 4; Switzerland
+    Hospital; Geneva; Switzerland
+doi: https://dx.doi.org/10.3390/rs15061477
+publication: Iranian Journal of Science and Technology, Transactions of Electrical Engineering
 abstract: In recent years, one of the most widely used tools in the training and
   evaluation of physicians and surgeons is surgical simulators. Introducing
   virtual reality and adding haptic technology to the field has made it feasible
