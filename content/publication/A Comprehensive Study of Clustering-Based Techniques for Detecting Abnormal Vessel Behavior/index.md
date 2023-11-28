@@ -26,7 +26,7 @@ draft: false
 featured: false
 tags:
   - remote sensing
-  - ""
+  - anomaly detection
 image:
   filename: featured
   focal_point: Smart
