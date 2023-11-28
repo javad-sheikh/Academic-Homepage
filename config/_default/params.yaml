@@ -33,9 +33,9 @@ address:
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
-coordinates:
-  latitude: '60.45569831300558'
-  longitude: '22.285529732724658' 
+# coordinates:
+#   latitude: '60.45569831300558'
+#   longitude: '22.285529732724658' 
 contact_links:
   - icon: skype
     icon_pack: fab
