@@ -23,7 +23,7 @@ tags:
   - sea ice
   - segmentation
 image:
-  filename: featured
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2023-09-01T07:21:13.700Z
