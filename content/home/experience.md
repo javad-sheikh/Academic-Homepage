@@ -42,7 +42,7 @@ experience:
     company_logo: ponisha
     location: Tehran, Iran
     date_start: '2019-04-04'
-    date_end: '2021-09-01'
+    date_end: '2022-09-01'
     description: |2-
         Retinopathy detection app development:
         * Preprocessed retina images

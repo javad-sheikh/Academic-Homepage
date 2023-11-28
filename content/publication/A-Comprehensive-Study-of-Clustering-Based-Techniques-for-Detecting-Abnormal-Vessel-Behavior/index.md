@@ -31,7 +31,7 @@ tags:
 image:
   image_position: Bottom
   filename: featured.png
-  focal_point: Left
+  focal_point: smart
   preview_only: false
   
 date: 2023-03-07T07:21:13.700Z
