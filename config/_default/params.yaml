@@ -22,13 +22,20 @@ twitter: ''
 
 email: Javad.Sheikh@utu.fi
 phone: +358 465 698 472
-# address:
-#   street: Dokhaniat 4
-#   city: Gorgan
-#   region: 
-#   postcode: '4917973354'
-#   country: Iran
-#   country_code: Ir
+address:
+  street: Turun yliopisto, Vesilinnantie 3, 20014, Vesilinnantie 3
+  city: Turku
+  region: 
+  postcode: '20500'
+  country: Finland
+  country_code: Fi
+  directions: Enter Agora Building and take the elevator to Room 425 on Floor 4
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+coordinates:
+  latitude: '60.45569831300558'
+  longitude: '22.285529732724658' 
 contact_links:
   - icon: skype
     icon_pack: fab
@@ -125,8 +132,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
-  api_key: ''
+  provider: '2'
+  api_key: 'pk.eyJ1IjoiamF2YWQybiIsImEiOiJjbHBpY296ZHUwZnJiMmlwMDQxaWZxYXFsIn0.PnmGgVLEGwqOHNgOGm6imQ'
   zoom: 15
 marketing:
   google_analytics: 'G-MRQVDL38QB'
