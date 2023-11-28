@@ -2,7 +2,7 @@
 title: Ice-Water Segmentation Using Deep Convolutional Neural Network-Based Fusion Approach
 subtitle: ""
 publication_types:
-  - "3"
+  - "1"
 authors:
   - admin
   - Fahimeh Farahnakian 
