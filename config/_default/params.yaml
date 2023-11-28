@@ -132,7 +132,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
+  provider: 'https://api.mapbox.com/v4/mapbox.mapbox-streets-v8/1/0/0.mvt?'
   api_key: 'pk.eyJ1IjoiamF2YWQybiIsImEiOiJjbHBpY296ZHUwZnJiMmlwMDQxaWZxYXFsIn0.PnmGgVLEGwqOHNgOGm6imQ'
   zoom: 15
 marketing:
