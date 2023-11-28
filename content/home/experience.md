@@ -25,7 +25,7 @@ experience:
   - title: Project Researcher
     company: University of Turku
     company_url: 'https://www.utu.fi/en'
-    company_logo: utu
+    company_logo: ponisha
     location: Turku, Finland
     date_start: '2022-07-01'
     date_end: ''
