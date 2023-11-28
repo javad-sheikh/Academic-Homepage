@@ -29,7 +29,7 @@ tags:
   - anomaly detection
 image:
   filename: featured.png
-  focal_point: Smart
+  focal_point: End
   preview_only: false
 date: 2023-03-07T07:21:13.700Z
 ---
