@@ -51,7 +51,7 @@ summary: In recent years, one of the most widely used tools in the training and
   to develop ever-better surgical simulators. In this regard, we set out to
   design a brain surgery bipolar electrocoagulation simulator using haptic
   technology.
-date: 2021-10-25T08:03:45.735Z
+date: 2023-01-05T08:03:45.735Z
 ---
 <!--StartFragment-->
 

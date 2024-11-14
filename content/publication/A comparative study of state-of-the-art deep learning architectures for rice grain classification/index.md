@@ -30,5 +30,5 @@ image:
   focal_point: smart
   preview_only: false
   
-date: 2023-03-07T07:21:13.700Z
+date: 2024-03-01T07:21:13.700Z
 ---
