@@ -28,6 +28,7 @@ tags:
   - Machine Learning
   - Neural Networks
 image:
+  image_position: Bottom
   filename: featured.png
   focal_point: smart
   preview_only: false

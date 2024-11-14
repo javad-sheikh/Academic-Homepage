@@ -25,7 +25,7 @@ tags:
   - Machine learning
   - Automatic feature extraction
 image:
-  image_position: Smart
+  image_position: Bottom
   filename: featured.jpg
   focal_point: smart
   preview_only: false

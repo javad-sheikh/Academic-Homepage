@@ -27,6 +27,7 @@ tags:
   - Remote Sensing
   - Computer Vision
 image:
+  image_position: Bottom
   filename: featured.png
   focal_point: Smart
   preview_only: false
