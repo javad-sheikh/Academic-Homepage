@@ -41,10 +41,6 @@ contact_links:
     icon_pack: fab
     name: Skype Me
     link: 'skype:javad2n?call'
-  - icon: telegram
-    icon_pack: fab
-    name: Chat on Telegram
-    link: 'https://t.me/javad2n_sh'
 
 # Site header
 
@@ -61,7 +57,7 @@ main_menu:
 
 date_format: 'Jan 2, 2006'
 time_format: '3:04 PM'
-address_format: en-us
+address_format: en-us 
 
 # Site features
 
