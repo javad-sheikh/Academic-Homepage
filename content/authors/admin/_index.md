@@ -4,10 +4,10 @@ role: Project Researcher at
 avatar_filename: avatar.png
 bio: I'm an engineer and programmer passionate about solving problems with machine learning and deep learning.
 interests:
-  - Computer Vision
   - Deep Learning
   - Machine Learning
   - Data Science
+  - Computer Vision
 social:
   - icon: envelope
     icon_pack: fas
