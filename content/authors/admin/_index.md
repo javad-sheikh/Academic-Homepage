@@ -2,8 +2,7 @@
 title: Javad Sheikh
 role: Project Researcher at
 avatar_filename: avatar.png
-bio: I'm Javad Sheikh and my research interests include Artificial Intelligence,
-  Computer Vision, and Deep Learning.
+bio: I'm an engineer and programmer passionate about solving problems with machine learning and deep learning.
 interests:
   - Computer Vision
   - Deep Learning
@@ -48,6 +47,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-As a D.Sc. candidate and researcher at the University of Turku, I am passionate about computer vision and deep learning. With a solid academic background in both artificial intelligence and robotics, as well as biomedical engineering, I bring a unique perspective to developing cutting-edge AI technologies. My interest in AI began during my undergraduate studies and led me to pursue a Master's degree in the field. During this time, my focus shifted to computer vision. I'm working on innovative solutions to complex visual problems as part of the AI-ARC project. I am excited to continue pushing the boundaries of AI research and development and exploring new ways these technologies can positively impact our world.
+As a doctoral student with a deep interest in machine learning and deep learning, I specialize in developing innovative solutions for complex problems, focusing on computer vision and time series analysis. With hands-on experience in building and deploying ML and DL models, I aim to bridge the gap between cutting-edge research and practical applications, contributing to fields that benefit from data-driven insights.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JavadSheikhCV.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}.
