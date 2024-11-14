@@ -34,6 +34,6 @@ date: 2024-03-01T07:21:13.700Z
 ---
 <!--StartFragment-->
 
-{{< icon name="download" pack="fas" >}} Download {{< staticref "uploads/rice-grain.pdf" "newtab" >}}this paper{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/rice-grain.pdf" "newtab" >}}Full Paper{{< /staticref >}}.
 
 <!--EndFragment-->

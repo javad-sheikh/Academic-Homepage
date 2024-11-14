@@ -38,3 +38,8 @@ image:
   
 date: 2023-03-07T07:21:13.700Z
 ---
+<!--StartFragment-->
+
+{{< icon name="download" pack="fas" >}} Download the {{< staticref "uploads/abnormal vessel behavior.pdf" "newtab" >}}Full Paper{{< /staticref >}}.
+
+<!--EndFragment-->
