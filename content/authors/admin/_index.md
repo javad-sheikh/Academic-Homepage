@@ -47,6 +47,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-As a doctoral student with a deep interest in machine learning and deep learning, I specialize in developing innovative solutions for complex problems, focusing on computer vision and time series analysis. With hands-on experience in building and deploying ML and DL models, I aim to bridge the gap between cutting-edge research and practical applications, contributing to fields that benefit from data-driven insights.
+As a doctoral student with a deep interest in machine learning and deep learning, I specialize in developing innovative solutions for complex problems, focusing on computer vision and time series analysis. With hands-on experience in building and deploying ML and DL models, I aim to bridge the gap between cutting-edge research and real-world applications, contributing to fields that benefit from data-driven insights. I have also contributed to major EU-funded projects, including AI-ARC and EIS, collaborating with interdisciplinary teams to advance AI applications in the maritime and mining industries.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JavadSheikhCV.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}.
