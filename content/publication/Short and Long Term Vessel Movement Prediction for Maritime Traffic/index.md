@@ -13,7 +13,7 @@ author_notes:
   - Ph.D. Candidate; Department of Computing; University of Turku; Turku; Finland
   - Associate Professor; Department of Computing; University of Turku; Turku; Finland
   - Ph.D. Candidate; Department of Computing; University of Turku; Turku; Finland
-  - specialist researcher; Department of Computing; University of Turku; Turku; Finland
+  - Specialist Researcher; Department of Computing; University of Turku; Turku; Finland
   - Professor; Department of Computing; University of Turku; Turku; Finland
 doi: https://doi.org/10.1007/978-3-031-62139-0_4
 publication: 18th International Conference on Critical Information Infrastructures Security, CRITIS 2023
