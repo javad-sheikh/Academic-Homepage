@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'Certifications'
 subtitle:
 
 # Date format
@@ -41,7 +41,7 @@ item:
       * Generative adversarial networks
       * ...
   organization: Tehran ACM Chapter 
-  organization_url: https://tehran.acm.org
+  organization_url: 
   title: Deep Learning Summer School 2018
   url: ""
 - certificate_url: 
@@ -65,7 +65,7 @@ item:
   date_start: "2017-05-20"
   description: ""
   organization: General Office of Scientific Association and Olympiad Affairs
-  organization_url: https://sao-aut.ir
+  organization_url: 
   title:  fMRI Workshop
   url: 
 
