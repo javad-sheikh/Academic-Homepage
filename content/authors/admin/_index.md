@@ -11,10 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:Javad2n@yahoo.com
-  - icon: telegram
-    icon_pack: fab
-    link: https://t.me/javad_sh_73
+    link: mailto:Javad.sheikh@utu.fi
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=RlJAzTYAAAAJ&hl=en
@@ -31,7 +28,7 @@ social:
     link: https://www.linkedin.com/in/javad-sheikh/
 organizations:
   - name: University of Turku
-    url: https://utu.fi
+    url: https://www.utu.fi/en/people/javad-sheikh
 education:
   courses:
     - course: D.Sc. in Information and Communication Technology
