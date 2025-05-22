@@ -1,13 +1,13 @@
 ---
 title: Javad Sheikh
-role: Project Researcher at
+role: Doctoral Researcher at
 avatar_filename: avatar.png
 bio: I'm an engineer and programmer passionate about solving problems with machine learning and deep learning.
 interests:
-  - Deep Learning
   - Machine Learning
-  - Data Science
+  - Deep Learning
   - Computer Vision
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -44,6 +44,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-As a doctoral student with a deep interest in machine learning and deep learning, I specialize in developing innovative solutions for complex problems, focusing on computer vision and time series analysis. With hands-on experience in building and deploying ML and DL models, I aim to bridge the gap between cutting-edge research and real-world applications, contributing to fields that benefit from data-driven insights. I have also contributed to major EU-funded projects, including AI-ARC and EIS, collaborating with interdisciplinary teams to advance AI applications in the maritime and mining industries.
+I’m a Machine Learning Engineer with a strong background in deep learning, currently pursuing a doctorate in Information and Communication Technology. My expertise lies in developing and deploying machine learning solutions, with a particular focus on computer vision and time series analysis. I’ve worked on projects involving satellite imagery, medical imaging, and mobile AI applications—translating complex research into practical, real-world tools.
+I’ve contributed to EU-funded research initiatives like AI-ARC and EIS, collaborating with interdisciplinary teams to apply AI in the maritime and mining sectors. Passionate about bridging theory and practice, I aim to build intelligent systems that are both innovative and impactful.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JavadSheikhCV.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}.
