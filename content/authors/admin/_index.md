@@ -2,7 +2,7 @@
 title: Javad Sheikh
 role: Doctoral Researcher at
 avatar_filename: avatar.png
-bio: I'm an engineer and programmer passionate about solving problems with machine learning and deep learning.
+bio: I'm an engineer passionate about solving problems with machine learning and deep learning in the field of computer vision.
 interests:
   - Machine Learning
   - Deep Learning
