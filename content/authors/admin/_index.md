@@ -45,6 +45,7 @@ superuser: true
 highlight_name: true
 ---
 I’m a Machine Learning Engineer with a strong background in deep learning, currently pursuing a doctorate in Information and Communication Technology. My expertise lies in developing and deploying machine learning solutions, with a particular focus on computer vision and time series analysis. I’ve worked on projects involving satellite imagery, medical imaging, and mobile AI applications—translating complex research into practical, real-world tools.
+
 I’ve contributed to EU-funded research initiatives like AI-ARC and EIS, collaborating with interdisciplinary teams to apply AI in the maritime and mining sectors. Passionate about bridging theory and practice, I aim to build intelligent systems that are both innovative and impactful.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/JavadSheikhCV.pdf" "newtab" >}}Curriculum vitae{{< /staticref >}}.
